@@ -3,6 +3,9 @@
 
 // https://takeuforward.org/plus/dsa/sorting/algorithms/merge-sorting
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public void merge(int[] nums, int low, int mid, int high) {
       List<Integer> temp = new ArrayList<>();
