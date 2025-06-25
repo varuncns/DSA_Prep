@@ -1,5 +1,6 @@
 package Arrays.Fundamentals;
 
+// https://takeuforward.org/plus/dsa/arrays/fundamentals/linear-search
 
 // Time Complexity:O(n) because in the worst-case scenario, the loop iterates through all n elements of the array.
 // Space Complexity:O(1) because it uses a constant amount of extra space, regardless of the input size.
