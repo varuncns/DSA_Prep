@@ -1,4 +1,4 @@
-package Streams;
+package JavaCore.Streams;
 
 import java.util.*;
 import java.util.function.Function;
